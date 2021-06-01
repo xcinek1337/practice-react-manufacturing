@@ -1,8 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Wytwarzanie #04
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e10-react-manufacturing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#04` React: Wytwarzanie
+
 
 Najwyższy czas, aby opublikować swoją aplikację na zewnętrznym serwerze.
 
@@ -12,10 +13,4 @@ Jeśli planujesz wykorzystać w swojej aplikacji [Netlify Functions](https://www
 
 &nbsp;
 
-**Uwaga!** Link do działającej wersji powinien pojawić się w tym miejscu: ...
-
-
-&nbsp;
-
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
-
+> :arrow_left: [*poprzednie zadanie*](./../03) | [*następne zadanie*](./../05) :arrow_right:
