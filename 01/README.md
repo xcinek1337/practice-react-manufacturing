@@ -1,8 +1,9 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Wytwarzanie #01
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e10-react-manufacturing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#01` React: Wytwarzanie
+
 
 Twoim zdaniem jest przygotowanie [tablicy Trello](https://trello.com/), która pomoże Ci w planowaniu i zarządzaniu pracą nad projektem.
 
@@ -13,11 +14,7 @@ Twoja tablica powinna być zgodna z założeniami [tablicy Kanban](https://zerob
 Możesz do tego wykorzystać [zaproponowany przeze mnie szablon](https://trello.com/b/hx9WCXY8). Wystarczy, że z menu wybierzesz `Pokaż menu > Skopiuj tablicę`.
 
 Dobrą praktyką będzie również określić priorytety dla konkrentych zadań zgodnie z [metodologią MoSCoW](https://pl.wikipedia.org/wiki/Metoda_MoSCoW).
-
 &nbsp;
 
-**Uwaga!** Link do Twojej tablicy powinien pojawić się w tym miejscu: ...
 
-&nbsp;
-
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
+> :arrow_left: ~~*poprzednie zadanie*~~ | [*następne zadanie*](./../02) :arrow_right:
