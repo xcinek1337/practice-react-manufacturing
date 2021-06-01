@@ -14,6 +14,7 @@ Twoja tablica powinna być zgodna z założeniami [tablicy Kanban](https://zerob
 Możesz do tego wykorzystać [zaproponowany przeze mnie szablon](https://trello.com/b/hx9WCXY8). Wystarczy, że z menu wybierzesz `Pokaż menu > Skopiuj tablicę`.
 
 Dobrą praktyką będzie również określić priorytety dla konkrentych zadań zgodnie z [metodologią MoSCoW](https://pl.wikipedia.org/wiki/Metoda_MoSCoW).
+
 &nbsp;
 
 
