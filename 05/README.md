@@ -1,14 +1,14 @@
-# [![](../assets/img/logo-readme2.jpg)](https://devmentor.pl) &nbsp; React: Wytwarzanie #05
-
-> :loudspeaker: Jeśli chciałbyś więcej tego typu zadań to zapraszam do :moneybag: [wsparcia mojego konta](https://github.com/sponsors/devmentor-pl)!
+> :star: *Jeśli będziesz mieć problem z rozwiązaniem tego zadania, poproś o pomoc na odpowiednim kanale na Slacku, tj. `s2e10-react-manufacturing` (dotyczy [mentee](https://devmentor.pl/mentoring-javascript/)). Pamiętaj, aby treść Twojego wpisu spełniała [odpowiednie kryteria](https://devmentor.pl/jak-prosic-o-pomoc/).*
 
 &nbsp;
+
+# `#05` React: Wytwarzanie
 
 To zadanie potraktuj jako nie obowiązkowe, jednak jestem pewny, że bardzo ułatwi Ci pracę.
 
 Dodatkowym atutem zrealizowania tego zdania będzie to, że poznasz narzędzie, które może być wykorzystywane w Twojej przyszłej pracy do udostępniania Ci projektów graficznych do wdrożenia.
 
-Mam tu na myśli [figmę](https://www.figma.com/), która umożliwia tworzyć grafikę lub prototypy aplikacji.
+Mam tu na myśli [Figmę](https://www.figma.com/), która umożliwia tworzyć grafikę lub prototypy aplikacji.
 
 Postaraj się wykonać kilka widoków swojej aplikacji, aby móc zobrazować sobie i potencjalnym pracodawcom, co chcesz zrealizować (pamiętaj, że Twój projekt może być stale rozwijany).
 
@@ -25,8 +25,8 @@ W sieci znajdziesz również mnóstwo darmowych materiałów edukacyjnych:
 
 &nbsp;
 
-**Uwaga!** Do katalogu w tym zdaniem wrzuć widoki, które wyeksportujesz przy pomocy figmy.
+**Uwaga!** Do katalogu z tym zdaniem wrzuć widoki, które wyeksportujesz przy pomocy Figmy.
 
 &nbsp;
 
-> :warning: Jeśli nie posiadasz materiałów do tego zadania to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl)
+> :arrow_left: [*poprzednie zadanie*](./../04) | ~~*następne zadanie*~~ :arrow_right:
