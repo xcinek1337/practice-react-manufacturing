@@ -1,15 +1,12 @@
-
 > :dart: *Chcę mieć absolutną pewność, że **darmowe materiały**, które publikuję, spełniają Twoje oczekiwania. Dlatego oferuję Ci ebooka o wartości 39 PLN: `Jak zostać programistą? SKUTECZNY PRZEWODNIK` w zamian za [wypełnienie ankiety](https://devmentor.pl/ankieta).*
 
 &nbsp;
 
 # React: Wytwarzanie
 
-Proces tworzenia aplikacji to coś więcej niż implementacja.
+Proces tworzenia aplikacji to coś więcej niż implementacja. Potrzebujemy sprawnego planowania i organizowania pracy, aby móc zrealizować określony cel.
 
-Potrzebujemy sprawnego planowania i organizowania pracy, aby móc zrealizować okreslony cel.
-
-Tym razem wyzwania jakie są przed Tobą stawiane mają za zadanie ułatwić Ci proces planowania i organizacji pracy nad własnym projektem.
+Tym razem czekające Cię zadania mają ułatwić Ci proces planowania i organizacji pracy nad własnym projektem.
 
 &nbsp;
 
