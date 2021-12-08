@@ -5,11 +5,11 @@
 # `#04` React: Wytwarzanie
 
 
-Najwyższy czas, aby opublikować swoją aplikację na zewnętrznym serwerze.
+Teraz opublikuj swoją aplikację na zewnętrznym serwerze.
 
 Proponuję, abyś wykorzystał do tego [Netlify](https://www.netlify.com/). Konto darmowe powinno Ci w zupełności wystarczyć.
 
-Jeśli planujesz wykorzystać w swojej aplikacji [Netlify Functions](https://www.netlify.com/products/functions/) (choćby po to, aby ukryć klucze dla API) to skonfuguruj przenajmniej jeden endpoint, abyś był pewny, że potrafisz to wykonać.
+Jeśli planujesz wykorzystać w swojej aplikacji [Netlify Functions](https://www.netlify.com/products/functions/) (choćby po to, by ukryć klucze dla API), to skonfiguruj przynajmniej jeden endpoint – abyś był pewny, że potrafisz to wykonać.
 
 &nbsp;
 
