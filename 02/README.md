@@ -4,20 +4,19 @@
 
 # `#02` React: Wytwarzanie
 
-Kolejnym krokiem będzie przygotowanie środowiska oraz repozytorium, na którym będziesz pracować.
+Kolejnym krokiem jest przygotowanie środowiska oraz repozytorium, na którym będziesz pracować.
 
-Stwórz repozytorium oraz przygotój odpowiednie gałęzie (czyli master/main oraz develop).
+Stwórz repozytorium i przygotuj odpowiednie gałęzie, czyli `main` (`master` dla starych repozytoriów) oraz `develop`.
 
 Wykonaj kilka mniejszych zadań z Trello, które powinny być realizowane na osobnych gałęziach.
 
-Po zrealizowanu konkretnego zadania (pamiętaj, że testy to część zadania) możesz taką gałąź scalić z produkcją.
+Po zrealizowaniu konkretnego zadania (pamiętaj, że testy to też część zadania) możesz taką gałąź scalić z gałęzią `develop`.
 
-Jeśli wykonasz kilka zadań to przenieś wykonane zadania na produkcię (develop -> master/main).
+Jeśli wykonasz kilka zadań, to przenieś działające rozwiązania na produkcję (`develop` -> `main`/`master`).
 
 Pamiętaj, aby podnieść wersję swojej aplikacji zgodnie z [wersjonowaniem semantycznym](https://semver.org/lang/pl/).
 
 Dobrą praktyką będzie również utworzenie [changelogu](https://keepachangelog.com/en/1.0.0/).
-
 
 
 &nbsp;
