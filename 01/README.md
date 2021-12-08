@@ -7,13 +7,11 @@
 
 Twoim zdaniem jest przygotowanie [tablicy Trello](https://trello.com/), która pomoże Ci w planowaniu i zarządzaniu pracą nad projektem.
 
-Tablica ta ma zawierać listę zadań, które są niezbędne do wykonania przynajmniej [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) Twojego projektu.
+Tablica ta ma być zgodna z założeniami [tablicy Kanban](https://zerobs.pl/zarzadzanie-projektami/kanban-w-zarzadzaniu-projektami/) i zawierać listę zadań, które są niezbędne do wykonania przynajmniej [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) Twojego projektu. 
 
-Twoja tablica powinna być zgodna z założeniami [tablicy Kanban](https://zerobs.pl/zarzadzanie-projektami/kanban-w-zarzadzaniu-projektami/). 
+Możesz do tego wykorzystać [zaproponowany przeze mnie szablon](https://trello.com/b/hx9WCXY8). Wystarczy, że wybierzesz `Pokaż menu > Więcej > Skopiuj tablicę`.
 
-Możesz do tego wykorzystać [zaproponowany przeze mnie szablon](https://trello.com/b/hx9WCXY8). Wystarczy, że z menu wybierzesz `Pokaż menu > Skopiuj tablicę`.
-
-Dobrą praktyką będzie również określić priorytety dla konkrentych zadań zgodnie z [metodologią MoSCoW](https://pl.wikipedia.org/wiki/Metoda_MoSCoW).
+Dobrą praktyką będzie również określenie priorytetów dla konkretnych zadań zgodnie z [techniką MoSCoW](https://pl.wikipedia.org/wiki/Metoda_MoSCoW).
 
 &nbsp;
 
