@@ -7,11 +7,13 @@
 
 Twoim zdaniem jest przygotowanie [tablicy Trello](https://trello.com/), która pomoże Ci w planowaniu i zarządzaniu pracą nad projektem.
 
-Tablica ta ma być zgodna z założeniami [tablicy Kanban](https://zerobs.pl/zarzadzanie-projektami/kanban-w-zarzadzaniu-projektami/) i zawierać listę zadań, które są niezbędne do wykonania przynajmniej [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) Twojego projektu. 
+Tablica ta ma być zgodna z założeniami [tablicy Kanban](https://zerobs.pl/zarzadzanie-projektami/kanban-w-zarzadzaniu-projektami/) i zawierać listę zadań, które są niezbędne do wykonania przynajmniej [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) Twojego projektu.
 
 Możesz do tego wykorzystać [zaproponowany przeze mnie szablon](https://trello.com/b/hx9WCXY8). Wystarczy, że wybierzesz `Pokaż menu > Więcej > Skopiuj tablicę`.
 
-Dobrą praktyką będzie również określenie priorytetów dla konkretnych zadań zgodnie z [techniką MoSCoW](https://pl.wikipedia.org/wiki/Metoda_MoSCoW).
+Dobrą praktyką będzie również określenie priorytetów dla konkretnych tasków zgodnie z [techniką MoSCoW](https://pl.wikipedia.org/wiki/Metoda_MoSCoW).
+
+W zdaniu 5 (dodatkowym) przedstawię Ci możliwość wykonania projektu graficznego aplikacji, lecz teraz podczas planowania i wykonywania pierwszych zadań nie skupiaj się na wyglądzie – najpierw spraw, by Twój pomysł zadziałał.
 
 &nbsp;
 
